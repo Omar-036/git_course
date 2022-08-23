@@ -1,2 +1,2 @@
-# git_course
-git-tutorial
+# First note
+## don't try at home
